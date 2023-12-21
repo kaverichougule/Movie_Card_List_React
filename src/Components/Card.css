@@ -4,15 +4,76 @@
     width: 60%;
     display: flex;
     flex-direction: column;
+    padding: 2rem;
+    border-radius: 1rem;
+    gap: 1rem;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: contain;
+    box-shadow: 0rem 0rem 6rem -3rem rgb(255, 0, 0, 0.5);
 }
 .section1{
     display: flex;
     gap: 1rem;
 }
+.nameSection{
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
 .timing{
     display: flex;
     gap: 1rem;
+    align-items: center;
+}
+.time{
+    border: 1px solid #cfd6e1;
+    color: #cfd6e1;
+    padding: 0.2rem;
+    border-radius: 5px;
 }
 .posterImg{
     width: 5rem;
+    border-radius: 0.5rem;
+    cursor: pointer;
+}
+.section2{
+    width: 50%;
+    color: #cfd6e1;
+}
+.section3{
+    display: flex;
+    gap: 1rem;
+    margin-top: 2rem;
+    color: rgba(255, 255, 255, 0.4);
+    cursor: pointer;
+}
+.section3 i:hover{
+    color: rgba(255, 255, 255, 0.8);
+}
+.MovTitle{
+    font-size: 2rem;
+    font-weight: 300;
+}
+.yearDir{
+    color: #A0C4EC;
+} 
+.genres{
+    color: #cee4fd;
+}
+
+@media screen and (max-width:769px){
+    .Card{
+        width: 95%;
+        background-position: top    ;
+    }
+    .section1{
+        margin-top: 5rem;
+    }
+    .section2{
+        width: 100%;
+    }
+    .section2 p{
+        text-align: center;
+    }
 }
