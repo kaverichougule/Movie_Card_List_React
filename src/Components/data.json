@@ -1,0 +1,307 @@
+[
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/w500/yOm993lsJyPmBodlYjgpPwBjXP9.jpg",
+      "genres": [
+        {
+          "name": "Adventure"
+        },
+        {
+          "name": "Comedy"
+        },
+        {
+          "name": "Family"
+        }
+      ],
+      "id": 787699,
+      "original_language": "en",
+      "original_title": "Wonka",
+      "overview": "Willy Wonka – chock-full of ideas and determined to change the world one delectable bite at a time – is proof that the best things in life begin with a dream, and if you’re lucky enough to meet Willy Wonka, anything is possible.",
+      "popularity": 1081.396,
+      "poster_path": "https://image.tmdb.org/t/p/w500/qhb1qOilapbapxWQn9jtRCMwXJF.jpg",
+      "release_date": "2023",
+      "title": "Wonka",
+      "video": false,
+      "vote_average": 7.204,
+      "vote_count": 393,
+      "runtime": 116,
+      "director": "Paul King"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/w500/1X7vow16X7CnCoexXh4H4F2yDJv.jpg",
+      "genres": [
+        {
+          "name": "Crime"
+        },
+        {
+          "name": "Drama"
+        },
+        {
+          "name": "History"
+        }
+      ],
+      "id": 466420,
+      "original_language": "en",
+      "original_title": "Killers of the Flower Moon",
+      "overview": "When oil is discovered in 1920s Oklahoma under Osage Nation land, the Osage people are murdered one by one—until the FBI steps in to unravel the mystery.",
+      "popularity": 879.598,
+      "poster_path": "https://image.tmdb.org/t/p/w500/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg",
+      "release_date": "2023",
+      "title": "Killers of the Flower Moon",
+      "video": false,
+      "vote_average": 7.568,
+      "vote_count": 1516,
+      "runtime": 206,
+      "director": "Martin Scorsese"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/w500/bckxSN9ueOgm0gJpVJmPQrecWul.jpg",
+      "genres": [
+        {
+          "name": "Action"
+        },
+        {
+          "name": "Adventure"
+        },
+        {
+          "name": "Fantasy"
+        }
+      ],
+      "id": 572802,
+      "original_language": "en",
+      "original_title": "Aquaman and the Lost Kingdom",
+      "overview": "Black Manta, still driven by the need to avenge his father's death and wielding the power of the mythic Black Trident, will stop at nothing to take Aquaman down once and for all. To defeat him, Aquaman must turn to his imprisoned brother Orm, the former King of Atlantis, to forge an unlikely alliance in order to save the world from irreversible destruction.",
+      "popularity": 964.868,
+      "poster_path": "https://image.tmdb.org/t/p/w500/8xV47NDrjdZDpkVcCFqkdHa3T0C.jpg",
+      "release_date": "2023",
+      "title": "Aquaman and the Lost Kingdom",
+      "video": false,
+      "vote_average": 7.575,
+      "vote_count": 40,
+      "runtime": 124,
+      "director": "James Wan"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/w500/zIYROrkHJPYB3VTiW1L9QVgaQO.jpg",
+      "genres": [
+        {
+          "name": "Action"
+        },
+        {
+          "name": "Comedy"
+        }
+      ],
+      "id": 897087,
+      "original_language": "en",
+      "original_title": "Freelance",
+      "overview": "An ex-special forces operative takes a job to provide security for a journalist as she interviews a dictator, but a military coup breaks out in the middle of the interview, they are forced to escape into the jungle where they must survive.",
+      "popularity": 730.353,
+      "poster_path": "https://image.tmdb.org/t/p/w500/7Bd4EUOqQDKZXA6Od5gkfzRNb0.jpg",
+      "release_date": "2023",
+      "title": "Freelance",
+      "video": false,
+      "vote_average": 6.441,
+      "vote_count": 338,
+      "runtime": 108,
+      "director": "Pierre Morel"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/w500/8GnWDLn2AhnmkQ7hlQ9NJUYobSS.jpg",
+      "genres": [
+        {
+          "name": "Action"
+        },
+        {
+          "name": "Adventure"
+        },
+        {
+          "name": "Drama"
+        }
+      ],
+      "id": 695721,
+      "original_language": "en",
+      "original_title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+      "overview": "64 years before he becomes the tyrannical president of Panem, Coriolanus Snow sees a chance for a change in fortunes when he mentors Lucy Gray Baird, the female tribute from District 12.",
+      "popularity": 810.099,
+      "poster_path": "https://image.tmdb.org/t/p/w500/mBaXZ95R2OxueZhvQbcEWy2DqyO.jpg",
+      "release_date": "2023",
+      "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+      "video": false,
+      "vote_average": 7.274,
+      "vote_count": 828,
+      "runtime": 157,
+      "director": "Francis Lawrence"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/w500/k1KrbaCMACQiq7EA0Yhw3bdzMv7.jpg",
+      "genres": [
+        {
+          "name": "Animation"
+        },
+        {
+          "name": "Adventure"
+        },
+        {
+          "name": "Comedy"
+        }
+      ],
+      "id": 901362,
+      "original_language": "en",
+      "original_title": "Trolls Band Together",
+      "overview": "When Branch's brother, Floyd, is kidnapped for his musical talents by a pair of nefarious pop-star villains, Branch and Poppy embark on a harrowing and emotional journey to reunite the other brothers and rescue Floyd from a fate even worse than pop-culture obscurity.",
+      "popularity": 782.173,
+      "poster_path": "https://image.tmdb.org/t/p/w500/bkpPTZUdq31UGDovmszsg2CchiI.jpg",
+      "release_date": "2023",
+      "title": "Trolls Band Together",
+      "video": false,
+      "vote_average": 7.15,
+      "vote_count": 391,
+      "runtime": 91,
+      "director": "Walt Dohrn"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/w500/tLsc8SCFO0rMVgVyNm9XtfnyX84.jpg",
+      "genres": [
+        {
+          "name": "Drama"
+        },
+        {
+          "name": "Mystery"
+        },
+        {
+          "name": "Thriller"
+        }
+      ],
+      "id": 726209,
+      "original_language": "en",
+      "original_title": "Leave the World Behind",
+      "overview": "A family's getaway to a luxurious rental home takes an ominous turn when a cyberattack knocks out their devices—and two strangers appear at their door.",
+      "popularity": 695.078,
+      "poster_path": "https://image.tmdb.org/t/p/w500/29rhl1xopxA7JlGVVsf1UHfYPvN.jpg",
+      "release_date": "2023",
+      "title": "Leave the World Behind",
+      "video": false,
+      "vote_average": 6.563,
+      "vote_count": 950,
+      "runtime": 138,
+      "director": "Sam Esmail"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/w500/r9oTasGQofvkQY5vlUXglneF64Z.jpg",
+      "genres": [
+        {
+          "name": "Biography"
+        },
+        {
+          "name": "Drama"
+        },
+        {
+          "name": "History"
+        }
+      ],
+      "id": 1029575,
+      "original_language": "en",
+      "original_title": "The Family Plan",
+      "overview": "Dan Morgan is many things: a devoted husband, a loving father, a celebrated car salesman. He's also a former assassin. And when his past catches up to his present, he's forced to take his unsuspecting family on a road trip unlike any other.",
+      "popularity": 630.244,
+      "poster_path": "https://image.tmdb.org/t/p/w500/jLLtx3nTRSLGPAKl4RoIv1FbEBr.jpg",
+      "release_date": "2023",
+      "title": "The Family Plan",
+      "video": false,
+      "vote_average": 7.593,
+      "vote_count": 235,
+      "runtime": 118,
+      "director": "Simon Cellan Jones"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/w500/fm6KqXpk3M2HVveHwCrBSSBaO0V.jpg",
+      "genres": [
+        {
+          "name": "Biography"
+        },
+        {
+          "name": "Drama"
+        },
+        {
+          "name": "History"
+        }
+      ],
+      "id": 872585,
+      "original_language": "en",
+      "original_title": "Oppenheimer",
+      "overview": "The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II.",
+      "popularity": 582.685,
+      "poster_path": "https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+      "release_date": "2023",
+      "title": "Oppenheimer",
+      "video": false,
+      "vote_average": 8.128,
+      "vote_count": 5511,
+      "runtime": 180,
+      "director": "Christopher Nolan"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/w500/9PqD3wSIjntyJDBzMNuxuKHwpUD.jpg",
+      "genres": [
+        {
+          "name": "Animation"
+        },
+        {
+          "name": "Comedy"
+        },
+        {
+          "name": "Family"
+        }
+      ],
+      "id": 1075794,
+      "original_language": "en",
+      "original_title": "Leo",
+      "overview": "Jaded 74-year-old lizard Leo has been stuck in the same Florida classroom for decades with his terrarium-mate turtle. When he learns he only has one year left to live, he plans to escape to experience life on the outside but instead gets caught up in the problems of his anxious students — including an impossibly mean substitute teacher.",
+      "popularity": 617.925,
+      "poster_path": "https://image.tmdb.org/t/p/w500/pD6sL4vntUOXHmuvJPPZAgvyfd9.jpg",
+      "release_date": "2023",
+      "title": "Leo",
+      "video": false,
+      "vote_average": 7.603,
+      "vote_count": 610,
+      "runtime": 102,
+      "director": "Robert Marianetti"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/w500/4XM8DUTQb3lhLemJC51Jx4a2EuA.jpg",
+      "genres": [
+        {
+          "name": "Action"
+        },
+        {
+          "name": "Adventure"
+        },
+        {
+          "name": "Crime"
+        }
+      ],
+      "id": 385687,
+      "original_language": "en",
+      "original_title": "Fast X",
+      "overview": "Over many missions and against impossible odds, Dom Toretto and his family have outsmarted, out-nerved and outdriven every foe in their path. Now, they confront the most lethal opponent they've ever faced: A terrifying threat emerging from the shadows of the past who's fueled by blood revenge, and who is determined to shatter this family and destroy everything—and everyone—that Dom loves, forever.",
+      "popularity": 508.326,
+      "poster_path": "https://image.tmdb.org/t/p/w500/fiVW06jE7z9YnO4trhaMEdclSiC.jpg",
+      "release_date": "2023",
+      "title": "Fast X",
+      "video": false,
+      "vote_average": 7.201,
+      "vote_count": 4497,
+      "runtime": 141,
+      "director": "Louis Leterrier"
+    }
+  ]
