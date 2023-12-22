@@ -11,6 +11,7 @@
     background-position: right;
     background-size: contain;
     box-shadow: 0rem 0rem 6rem -3rem rgb(255, 0, 0, 0.5);
+    cursor: pointer;
 }
 .section1{
     display: flex;
@@ -76,4 +77,8 @@
     .section2 p{
         text-align: center;
     }
+}
+.Card:hover{
+    transform: scale(1.1);
+    transition: transform 2s ease-in-out;
 }

@@ -2,10 +2,10 @@ import "./Card.css"
 export default function Card(props){
     return(
         //style={{background-image:linear-gradient(#ffffffb3,#ffffffb3),url({props.backdrop_path})}}
-        <div className="Card" style={{backgroundImage:`linear-gradient(to right, #050000 60%, transparent), url(${props.backgroundImg})`}}>
-            <div className="section1">
+        <div data-aos="fade-left" className="Card"  style={{backgroundImage:`linear-gradient(to right, #050000 60%, transparent), url(${props.backgroundImg})`}} >
+            <div className="section1" >
                 <div className="poster">
-                    <img src={props.poster} alt="Image Poster" className="posterImg"/>
+                    <img src={props.poster} className="posterImg" alt="" />
                 </div>
                 <div className="nameSection">
                     <div>
