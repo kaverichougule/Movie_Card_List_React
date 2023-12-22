@@ -4,6 +4,7 @@ import Card from "./Card";
 export default function Body(){
     return(
         <div className="container">
+            <h1 className="title">Movies List</h1>
             {
                 data.map((currEle)=>{
                     return <Card MovieName={currEle.title} year={currEle.release_date} backgroundImg={currEle.backdrop_path} director={currEle.director} poster={currEle.poster_path} runtime={currEle.runtime} genres={currEle.genres} overview={currEle.overview}/>
